@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 xgheaven/homebox
 linzeyi/hivision_idphotos
+nyanmisaka/jellyfin
