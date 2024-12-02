@@ -6,3 +6,4 @@ xhofe/alist:latest
 xgheaven/homebox
 linzeyi/hivision_idphotos
 nyanmisaka/jellyfin
+jellyfin/jellyfin:armv7
