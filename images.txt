@@ -4,4 +4,5 @@ xgheaven/homebox
 linzeyi/hivision_idphotos
 ghcr.io/open-webui/open-webui:main
 nyanmisaka/jellyfin
-neosmemo/memos
+
+neosmemo/memos:0.22.5
