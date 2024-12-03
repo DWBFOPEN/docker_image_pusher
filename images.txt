@@ -3,3 +3,4 @@
 xgheaven/homebox
 linzeyi/hivision_idphotos
 ghcr.io/open-webui/open-webui:main
+nyanmisaka/jellyfin
