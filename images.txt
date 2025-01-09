@@ -1,7 +1,6 @@
 #支持私库
 #支持指定架构
-xgheaven/homebox
-linzeyi/hivision_idphotos
 ghcr.io/open-webui/open-webui:main
 nyanmisaka/jellyfin
 neosmemo/memos
+ollama/ollama
