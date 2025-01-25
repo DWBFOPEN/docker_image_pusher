@@ -4,3 +4,4 @@ ghcr.io/open-webui/open-webui:main
 nyanmisaka/jellyfin
 neosmemo/memos
 ollama/ollama
+dpanel/dpanel:lite
