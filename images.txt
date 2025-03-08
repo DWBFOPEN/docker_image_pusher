@@ -5,3 +5,4 @@ nyanmisaka/jellyfin
 neosmemo/memos
 ollama/ollama
 dpanel/dpanel:lite
+xiaoxinpro/nginx-proxy-manager-zh
